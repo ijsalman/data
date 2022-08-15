@@ -1,0 +1,110 @@
+[
+    {
+        "topic": "Introduction",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec01.pdf",
+        "reading": "Chapter 1"
+    },
+    {
+        "topic": "History of Robotics",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec02.pdf",
+        "reading": "Chapter 2"
+    },
+    {
+        "topic": "Software Tools 1",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec03.pdf",
+        "reading": ""
+    },
+    {
+        "topic": "Robot Components 1",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec04.pdf",
+        "reading": "Chapter 3"
+    },
+    {
+        "topic": "Software Tools 2",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec03.pdf",
+        "reading": ""
+    },
+    {
+        "topic": "Introduction to Python",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec05.pdf",
+        "reading": ""
+    },
+    {
+        "topic": "ROS Programming",
+        "link": "https://github.com/18r441m/CSCE274/tree/fall2021/Lectures/ROS",
+        "reading": ""
+    },
+    {
+        "topic": "Sensors",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec06.pdf",
+        "reading": "Chapter 7"
+    },
+    {
+        "topic": "Actuators",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec07.pdf",
+        "reading": "Chapter 4"
+    },
+    {
+        "topic": "Wheeled Locomotion",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec08.pdf",
+        "reading": ""
+    },
+    {
+        "topic": "Vision",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec09.pdf",
+        "reading": ""
+    },
+    {
+        "topic": "Controllers",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec10.pdf",
+        "reading": ""
+    },
+    {
+        "topic": "Control Architectures",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec11.pdf",
+        "reading": ""
+    },
+    {
+        "topic": "State Estimation",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec12.pdf",
+        "reading": ""
+    },
+    {
+        "topic": "Navigation",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec13.pdf",
+        "reading": ""
+    },
+    {
+        "topic": "Ethics",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec14.pdf",
+        "reading": ""
+    },
+    {
+        "topic": "Learning",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec15.pdf",
+        "reading": ""
+    },
+    {
+        "topic": "Architectures",
+        "link": "https://cse.sc.edu/~ijsalman/db/content/lectures/lec16.pdf",
+        "reading": ""
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
